@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, football and coding
 - 🌱 I’m currently learning Java Spring Boot
 - 📚 I'm a Computer Science student at University of Pisa
-- 🏢 I'm currently an intern for NTT DATA
+- 🏢 I'm a software engineer for NTT DATA
 - 📫 How to reach me: alessiocecchi2001@gmail.com
 
 <!---
